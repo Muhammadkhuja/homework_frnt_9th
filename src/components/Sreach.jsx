@@ -28,7 +28,6 @@ const Search = ({ product }) => {
         ) : (
           <div className="text-center w-100 mt-5">
             <img
-              src="./src/assets/free_screen.png"
               alt="Mahsulot yo'q"
             />
             <h4 className="mt-3 text-muted">Hech qanday mahsulot topilmadi</h4>
